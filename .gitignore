@@ -1,0 +1,4 @@
+vst3_debugger
+*.o
+*.dSYM/
+.DS_Store
